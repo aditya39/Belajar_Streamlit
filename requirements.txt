@@ -8,4 +8,5 @@ numpy
 scipy
 plotly
 streamlit-pandas-profiling
-ydata-profiling
+ydata-profiling==4.8.3
+
